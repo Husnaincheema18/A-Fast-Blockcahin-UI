@@ -4,14 +4,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-  font-family: 'Clash Grotesk';
-  src: url('/blockchainwebsite/public/Fonts/ClashGrotesk-Bold.otf') format('otf'),
-       url('') format('otf');
-  font-weight: 700;
-  font-style: normal;
-}
-
 
 
 .text-linear {

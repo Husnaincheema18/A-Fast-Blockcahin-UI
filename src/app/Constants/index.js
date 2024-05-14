@@ -12,21 +12,24 @@ export const Icons=[
 export const cardData=[
     {
         id:0,
-        heading:"Connect Wallet",
-        text:"Step into the decentralized realm – connect your wallet and embark on a journey where your assets are at your fingertips.",
-        style:"mt-9 py-16 pl-10 pr-10"
+        url:'Assets/Rectangle.png',
+        heading:'Connect Wallet',
+        text:'Step into the decentralized realm – connect your wallet and embark on a journey where your assets are at your fingertips.',
+        style:'mt-9 px-3 py-16'
     },
     {
         id:1,
-        heading:"Upload",
-        text:"Step into the digital canvas a simple click allows you to upload your masterpiece, giving life to your vision in the online landscape",
-        style:"mb-7 py-16 pl-10 pr-10"
+        url:'Assets/Rectangle1.png',
+        heading:'Upload',
+        text:'Step into the digital canvas a simple click allows you to upload your masterpiece, giving life to your vision in the online landscape',
+        style:'mb-7 px-3 py-16'
     },
     {
         id:2,
-        heading:"Transfer",
-        text:"Unlock the potential of your creations by easily transferring them to friends or collaborators, fostering dynamic digital ecosystem.",
-        style:"mt-9 py-16 pl-10 pr-10"
+        url:'Assets/Rectangle2.png',
+        heading:'Transfer',
+        text:'Unlock the potential of your creations by easily transferring them to friends or collaborators, fostering dynamic digital ecosystem.',
+        style:'mt-7 px-3 py-16 '
     }
 
 ]
